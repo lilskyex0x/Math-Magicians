@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Coming soon](https://github.com/lilskyex0x/Math-Magicians)
+- Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,9 +125,8 @@ You can deploy this project using: GitHub but if you want to deploy make sure yo
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **N/A**
-- [ ] **N/A**
-- [ ] **N/A**
+- [ ] **Deployment**
+- [ ] **Add Calculator**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
