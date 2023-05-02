@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Coming soon](https://google.com)
+- [Coming soon](https://github.com/lilskyex0x/Math-Magicians)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +147,7 @@ If you like this project, please, share it with your friends.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank Microverse for letting me build this awesome project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
