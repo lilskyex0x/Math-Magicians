@@ -79,7 +79,6 @@ Clone this repository to your desired folder:
   git clone https://github.com/lilskyex0x/Math-Magicians.git
 ```
 
-
 ### Install
 
 Install this project with node packages:
@@ -126,7 +125,7 @@ You can deploy this project using: GitHub but if you want to deploy make sure yo
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Deployment**
-- [ ] **Add Calculator**
+- [ ] **Add Calculator functions**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
