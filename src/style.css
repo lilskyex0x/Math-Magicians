@@ -18,7 +18,7 @@ body {
   display: grid;
   justify-content: center;
   grid-template-columns: repeat(4, 6rem);
-  grid-template-rows: repeat(5, 3rem);
+  grid-template-rows: repeat(6, 3rem);
 }
 
 .calc__btn > button {
